@@ -27,6 +27,6 @@
 >![screenshot](./img/SeventeenHeartFestival.png)
 
 
-> ![screenshot](./img/Kimchi.jpeg)
+> ![screenshot](./img/Kimchi.JPG)
 
 ---
